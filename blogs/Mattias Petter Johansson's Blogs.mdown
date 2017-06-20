@@ -1,0 +1,21 @@
+# Mattias Petter Johansson's Blogs
+
+## Closures (part 5 of Functional Programming)
+
+Not all functions are not just functions, but also closures
+
+The func body has access to vars defined outside the func
+
+Usecases
+
+```js
+function sendRequest() {
+  var requestID = '123'
+  $.ajax({
+    url: '/myURL',
+    success: function(response) {
+      alert('Request' + requestID + ' returned')
+    }
+  });
+}
+```

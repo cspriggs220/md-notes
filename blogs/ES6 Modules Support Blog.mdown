@@ -1,0 +1,98 @@
+# ES6 Modules Support Blog
+
+apparently more browser support 
+
+## Setup
+
+### Traditionally
+
+Include one single bundle that is produced using Browserify, Rollup or Webpack. A classic webiste that's not a SPA consists of server-side generated HTML, which then includes a single JS bundle
+
+```html
+<html>
+  <head>
+    <title>ES6 modules tryout</title>
+    <!-- defer to not block rendering -->
+    <script src="dist/bundle.js" defer></script>
+  </head>
+  <body>
+    <!-- ... -->
+  </body>
+</html>
+```
+
+The combined file includes three JS files bundled with Webpack. These files maek use of ES6 modules:
+
+```js
+// app/index.js
+import dep1 from './dep-1';
+
+function getComponent () {
+  var element = document.createElement('div');
+  element.innerHTML = dep1();
+  return element;
+}
+
+document.body.appendChild(getComponent());
+
+// app/dep-1.js
+import dep2 from './dep-2';
+
+export default function() {
+  return dep2();
+}
+
+// app/dep-2.js
+export default function() {
+  return 'Hello World, dependencies loaded!';
+}
+```
+
+The result of this app will be a "Hello World" telling us that all files are loaded.
+
+### Shipping a bundle
+
+The Webpack configuration to create this bundle is relatively straightforward. There is not much happening right now except for the bundling and minification of the JS files using UglifyJS.
+
+```js
+// webpack.config.js
+
+const path = require('path');
+const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
+
+module.exports = {
+  entry: './app/index.js',
+  output: {
+    filename: 'bundle.js',
+    path: path.resolve(__dirname, 'dist')
+  },
+  plugins: [
+    new UglifyJSPlugin()
+  ]
+};
+```
+
+The three base files are relatively small and have a total size of 347 bytes.
+
+```bash
+$ ll app
+total 24
+-rw-r--r--  1 stefanjudis  staff    75B Mar 16 19:33 dep-1.js
+-rw-r--r--  1 stefanjudis  staff    75B Mar  7 21:56 dep-2.js
+-rw-r--r--  1 stefanjudis  staff   197B Mar 16 19:33 index.js
+```
+
+Ran through Webpack, the bundle was 856 bytes, which is roughly 500 bytes of boiilerplate.  These additional bytes are acceptable as it's nothing compared to the bundles most of us ship in production. Thanks to Webpack we can already use ES6 modules.
+
+```bash
+$ webpack
+Hash: 4a237b1d69f142c78884
+Version: webpack 2.2.1
+Time: 114ms
+Asset       Size        Chunks  Chunk Names
+bundle.js   856 bytes   0       [emitted]  main
+  [0] ./app/dep-1.js 78 bytes {0} [built]
+  [1] ./app/dep-2.js 75 bytes {0} [built]
+  [2] ./app/index.js 202 bytes {0} [built]
+```
+
