@@ -96,3 +96,68 @@ bundle.js   856 bytes   0       [emitted]  main
   [2] ./app/index.js 202 bytes {0} [built]
 ```
 
+### The new setup using native supported ES6 modules
+
+- First step, have the "traditional bundle" for all the browsers that don't support ES6 modules yet
+- Add another script for modules for browers that do support ES6
+
+```html
+<html>
+  <head>
+    <title>ES6 modules tryout</title>
+    <!-- in case ES6 modules are supported -->
+    <script src="app/index.js" type="module"></script>
+    <script src="dist/bundle.js" defer></script>
+  </head>
+  <body>
+    <!-- ... -->
+  </body>
+</html>
+```
+
+- "Browsers are forgiving, they won't throw errors when they don't understand markup we send down the wire. Chrome just ignores the script eleement with the type it doesn't know"
+
+Safari doesn't figure out the path for one of the module's build files.
+Requires changing the following, adding a more defined concrete file path:
+
+```js
+// app/index.js
+
+// This needs to be changed
+// import dep1 from './dep-1';
+
+// This works
+import dep1 from './dep-1.js';
+```
+
+However, Safari now will load the bundle AND the three individual modules, meaning our code will be executed twice.
+
+The solution is the `nomodule` attribute. This tells Safari that this script is the "fallback" script for the lack of ES6 modules support, and in this case shouldn't be executed.
+
+```html
+<!-- in case ES6 modules are supported -->
+<script src="app/index.js" type="module"></script>
+<!-- in case ES6 modules aren' supported -->
+<script src="dist/bundle.js" defer nomodule></script>
+```
+
+With the combination of `type="module"` and `nomodule`, we can load a classic bundle in not supporting browsers and load Javascript modules in supporting browsers.
+
+## Differences between modules and scripts
+
+- JavaScript running in an ES6 module is not quite the same as in a regular script element
+
+1. ES6 modules are running in strict mode by default
+2. Top-level value of `this` is `undefined`
+3. Top-level variables are local to the module
+4. ES6 modules are loaded and executed asynchronously after the browser finished parsing the HTML
+
+With #3, modules are local. No need for IIFEs around everything and no fear global variable leaking anymore
+
+Can drop `'use strict'`
+
+Modules load and execute **deferred** by default
+
+`defer` is a good choice these days - [Link ->](https://calendar.perfplanet.com/2016/prefer-defer-over-async/)
+
+## Minifying of pure ES6
