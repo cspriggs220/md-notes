@@ -161,3 +161,40 @@ Modules load and execute **deferred** by default
 `defer` is a good choice these days - [Link ->](https://calendar.perfplanet.com/2016/prefer-defer-over-async/)
 
 ## Minifying of pure ES6
+
+The usual flow is that tools like Babel transpile to ES5, and then Uglify.js comes into play to minify this ES5 code. I want to ignore ES5 transpilation in this article: we're dealing with the future here, Chrome has 97% ES6 coverage and Safari Preview has already fabulous 100% ES6 coverage since version 10.
+
+- In comes [Bibili](https://github.com/babel/babili)
+
+```bash
+$ babili app -d dist/modules
+app/dep-1.js -> dist/modules/dep-1.js
+app/dep-2.js -> dist/modules/dep-2.js
+app/index.js -> dist/modules/index.js
+```
+
+```bash
+$ ll dist
+-rw-r--r--  1 stefanjudis  staff   856B Mar 16 22:32 bundle.js
+
+$ ll dist/modules
+-rw-r--r--  1 stefanjudis  staff    69B Mar 16 22:32 dep-1.js
+-rw-r--r--  1 stefanjudis  staff    68B Mar 16 22:32 dep-2.js
+-rw-r--r--  1 stefanjudis  staff   161B Mar 16 22:32 index.js
+```
+
+## Speeding up ES6 modules with rel=preload
+
+Using ES6 modules we are now able to ship less code, but looking at the waterfall again we'll see that the requests are made sequentially bc of the defined dependency chain of the modules.
+
+- Tree shaking is the cool kid in town
+
+Build processes that can eliminate code that's not used
+
+Rollup and Webpack support this (they bundle the **used** code, Babili minifies)
+
+## Future is bright, but build processes are here to stay
+
+- we won't start shipping thousands of tiny files to guarantee good compression
+- we won't abandon build processes to make use of tree shaking and dead code elimination
+- the most important thing to remember is that measuring is the key to success
