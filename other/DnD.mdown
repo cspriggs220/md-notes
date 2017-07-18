@@ -26,7 +26,7 @@ Sister Gariel
 
 2 potions of health in my possession
 
-Joined the group known as The Harpers - as a Watcher
+Joined the group known as **The Harpers** - as a Watcher
 
 Visit Townmaster's Hall
 
@@ -98,17 +98,61 @@ Raided his wooden chest
 - 5 karnillians (10g each)
 - 1 pearl (100g)
 
+## 7/15
+
+Wood carver's chest:
+
++ 5 Malkite Gems (15g ea)
++ 2 potions of healing
++ 1 scroll of augery
++ 1 Talon (Magic Longsword)
++ 120 gp
++ 15 ep
++ 160 sp
+
+Bring Glass Staff back to town
+Talk to Sheriff Harbin Wester, disquised as GS encouraged him to own his city
+Black Spider is a Drow
+    Searching for Wave Echo Cave (BugBears know the wave)
+    The dwarves are headed to Cragmaw Castle (Goblin that came with BugBears know the way to Cragmaw Castle)
+Sildar is pissed at Eyarno
+
+Sildar's reward:
+200 gold total
+50xp each
+
+## 7/17
+
+
+
+--------------------------------------------------------------------------
+
+## Monies and Inventory
+
+**Personal Inventory**
+
++ 1 dice of inspiration (1d6 mod for any check/save)
+
 **Current Group Monies Totals**:
 
-+ Gold: 167 (+130)
-+ Epsilum: 15 
-+ Silver: 208 (+180)
++ Gold: 487 (+320)
++ Epsilum: 30 (+15)
++ Silver: 368 (+160)
 
 **Group Inventory**:
 
-+ 1 potions of standard healing
++ 3 potions of standard healing
 + Jade statue with golden eyes
 + 3 golden teeth
 + 2 garnets (worth 1 gold each)
 + 1 pearl (100g)
 + 5 karnillians (10g each)
++ 3 Viles from Glasstaff
+    + Powdered Nightshade (25g)
+    + Mercury (25g)
+    + Dragon Bile (25g)
++ 5 Malkite Gems (15g ea)
++ 1 scroll of augery
++ 1 Talon (Magic Longsword)
+
+--------------------------------------------------------------------------
