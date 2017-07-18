@@ -33,4 +33,20 @@ Things I'd have to farm out:
 
 ## Unknowns/Needs
 
-Do I need a personal site? (yes)
+## Personal Site
+
+- posts on topics for relevant services offered to clients
+- categories of services offered
+- portfolio (hidden for now!)
+- about
+
+## Squarespace Templates
+
+Possibles
+
+- Harris
+- Sofia
+- Mentor**
+- Ready**
+- Bedford*
+- 
