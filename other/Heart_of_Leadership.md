@@ -1,3 +1,12 @@
+Here's that list of what pages we're reading each week again:
+
+· Week 1: 19 pages - Introduction, Leaders are Different, When the Student is Ready (pg 1-19)
+· Week 2: 28 pages - It's not about You, Leaders Create the Future (pg 20-48)
+· Week 3: 22 pages - Vision Fuels Courage, The Price of Leadership (pg 49-71)
+· Week 4: 29 pages - No Substitute for Wisdom, Look in the Mirror, I can Change This (pg 72-101)
+· Week 5: 20 pages - A Matter of the Heart, The Next Step, Epilogue, Author's Note (pg 102-122)
+· Week 6: Self-Assessment and questions (pg 123)
+
 # Week 1
 
 ## Leaders are Different
@@ -43,6 +52,27 @@ Facets of Leadership Character
 
 The ability to think others first is the foundation of leadership characer
 
+### Study Group Questions
+
+- List of behaviors that signal someone is truly interested in you as a person
+    + Eye contact
+    + Active listening/affirmation/fully engaged
+    + Uses your name
+    + Asks you questions
+    + Remembers & references context from previous conversations
+- Which of these are challenging for you?
+    + Remembering someone's name
+        * Find a way to interject their name immediately
+        * Visual picture association
+        * Think about it afterward/reflect
+    + Eye contact
+- What behaviors can you predict from people who believe their leader really wants them to win?
+    + **Multipliers** book about this topic (the effect that having a leader who believes in you can have)
+    + Trustworthiness
+    + Expect constructive feedback
+    + Engaging conversation
+    + Make tough decisions/take risks
+
 ## Leaders Create the Future
 
 Without leadership character, no one cares about your leadership skills
@@ -59,3 +89,17 @@ Get ready to lead and opportunities to lead will not be your problem
         - Part of what we are paid to do is identifying the risks worth taking   
     + When you expect the best from people, you will often see more in them than they see in themselves
     + Choose to be optimistic
+
+### Study Group Questions
+
+- What are the advantages of cultivating an "Expect the Best" attitude?
+    + optimism first seems more motivating/empowering
+    + gives trust to the person
+- What are the risks?
+    + the potential of not accounting for a worst-case scenario?
+    + placing too much trust could have negative side-effects
+- Describe (list out) the impact that Optimistic vs. Pessimistic leaders can have on their organizations.
+    + Optimistic - positive, encouraging, energy
+    + Pessimistic - negative, motivating for a different reason, stress/anxiety-inducing
+- Which of these views best describes your outlook (optimistic vs. pessimistic)?
+    + Optimistic
