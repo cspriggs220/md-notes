@@ -103,3 +103,103 @@ Get ready to lead and opportunities to lead will not be your problem
     + Pessimistic - negative, motivating for a different reason, stress/anxiety-inducing
 - Which of these views best describes your outlook (optimistic vs. pessimistic)?
     + Optimistic
+
+## Chapter 5: Vision Fuels Courage
+
+Ask myself these two questions before meeting with someone: 
+- How can I serve this person
+- What does a win look like for him or her?
+
+"Good news, you aren't starting from scratch" - on learning leadership character
+
+Affirmation
+
+### Facets of Leadership Character: Respond with Courage
+
+- Think Others First
+- Expect the Best
+- Respond with Courage
+
+"Leaders usually don't wait-they initiate"
+"Leaders get what they create and what they allow"
+"When you encounter a problem, offer a solution"
+
+- "Practice taking action"
+    "Leaders can develop an instinct to inform them when action is required"
+    "If you've got a better idea than the one being pursued and you fail to respond with courage, you're hindering the performance of your team and organization." 
+        - By NOT taking action, you're allowing other things to take place (potentially negative)
+    "Your missed opportunities are often no big deal in isolation. They are, however, cumulative."
+    "Because leaders develop a habit of responding with courage, **they have to be told what to do less often**"
+"If not me, then who?"
+
+## Chapter 6: The Price of Leadership
+
+"Leadership character, like other character traits, once established, is hard to hide"
+
+## Study Questions
+
+Think of a time you were courageous as a leader. Answer the following questions...
+    
+What was the situation?
+
+- Since mine is more about initiating something on a interpersonal-level, mine is tied to leading my siblings to connect with each other on a weekly basis to encourage us to deepen our relationships since we don't get together in-person.
+
+Why did the outcome matter?
+
+- We'd either become more involved in each other's lives or we would slowly but surely drift even further apart
+
+How did your action affect the outcome?
+
+- I did something about the problem, and at least in the small amount of time we've been connecting, I'd say that the results have born fruit at least in that my brother and I get to see each other every week and connect.
+
+What did you learn about yourself?
+
+- That my ideas can make a difference
+
+Brainstorm 20 different situations in which courage is required.
+
+- Responding to an emergency (work/home)
+- Opposing opinion on direction for a thing/project/idea
+- It takes courage to be somewhat obstinant/standing up and opposing something you feel passionately about
+
+Reference: 12 Angry Men - group think and opposing ideas
+
+## Chapter 7: No Substitue for Wisdom
+
+So far...Facets of Leadership Character
+- Think Others First
+- Expect the Best
+- Respond with Courage
+
+After having been asked since the beginning of the meetings, Blake has ammended his response to the question "Why do you want to know about what it takes to instill leadership caharcter." His answer: "I want to strengthen my leadership character so I can serve more effectively at home and at the office. I want to identify any gaps and work to close them."
+
+- The best leaders **hunger for wisdom**
+
+"You hunger for wisdom so that you can better serve those entrusted to your leadership"
+
+Wisdom is critical to any decision a leader must make
+
+## Chapter 10: A Matter of the Heart
+
+Taking ownership of your responsibililties
+SERVE
+
+So far:
+- Hunger for Wisdom | Seek counsel from others
+- Expect the Best
+- Accept Responsibility | Look in the mirror when things don't go well. Learn from failure/disappointment
+- Respond with Courage | Take Action to build courage
+- Think Others First
+
+"Leadership character is a matter of the heart. If you do all the things we've talked about, it still won't matter if your heart doesn't change."
+
+90/10 Iceberg - Top 10% is skills, bottom 90% of the iceberg is character
+
+His 3 takeaways with his leader:
+- Without leadership character, no one cares about your skills.
+- There are five core traits that together constitute leadership character. They represent the HEART.
+- Leadership character can be formed and transformed.
+
+## 8/28
+
+Is the Serve they mentioned in this last section still referring to the 5 Skills (See the Future, Engage and Develop Others, Reinvent Continuously, Value Results and Relationships, Embody the Values)?
