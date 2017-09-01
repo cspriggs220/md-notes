@@ -117,7 +117,7 @@ Black Spider is a Drow
     The dwarves are headed to Cragmaw Castle (Goblin that came with BugBears know the way to Cragmaw Castle)
 Sildar is pissed at Eyarno
 
-Sildar's reward:
+Sildar's reward for finding Eyarno:
 200 gold total
 50xp each
 
@@ -128,14 +128,18 @@ Bugbears defeated
 - 1 showed us the way to Cragmaw Castle
     + and Wave Echo Cave
 - Goblin was "saved" by Mel and thrown in the cells to not let him die
-- `NEXT SESSION`
-    + LOOT THE ROOM
-    + Ask about XP gained
-    + Stealth into the jail cell that Mel locked up the surviving Goblin and end him
 
-## 7/31
+## 8/31
 
-**SEE ABOVE**
++ Loot
+    * 33 Silver
+    * Eye patch, semi prescious stones (50g)
+    * iron key or jail cell
++ Ask about XP gained - 150xp (1550 total)
+
+Ended the goblin
+
+
 
 --------------------------------------------------------------------------
 
@@ -149,7 +153,7 @@ Bugbears defeated
 
 + Gold: 487 (+320)
 + Epsilum: 30 (+15)
-+ Silver: 368 (+160)
++ Silver: 401 (+33)
 
 **Group Inventory**:
 
@@ -166,5 +170,7 @@ Bugbears defeated
 + 5 Malkite Gems (15g ea)
 + 1 scroll of augery
 + 1 Talon (Magic Longsword)
++ Eye patch, semi prescious stones (50g)
++ iron key or jail cell
 
 --------------------------------------------------------------------------
