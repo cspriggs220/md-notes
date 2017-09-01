@@ -151,9 +151,9 @@ Ended the goblin
 
 **Current Group Monies Totals**:
 
-+ Gold: 487 (+320)
-+ Epsilum: 30 (+15)
-+ Silver: 401 (+33)
++ Gold: 637 (+150 - 8/31)
++ Epsilum: 30
++ Silver: 401 (+33 - 8/31)
 
 **Group Inventory**:
 
