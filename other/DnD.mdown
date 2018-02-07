@@ -139,6 +139,18 @@ Bugbears defeated
 
 Ended the goblin
 
+## 9/7
+Cragmaw Castle
++60xp (1610 total)
+Cluster of Goblinoids at the Castle - 25 total
+Cluster of a scout watch headed toward Wave Echo Cave (opposite direction)
+Discovered the outside of the Castle
+
+## 9/18
+King Grohl Bugbear
+Female Drow
+we un-bound ourselves and grabbed weapons
+
 10/30
 
 Back into the castle w/Gundren
@@ -146,7 +158,6 @@ Back into the castle w/Gundren
 Pickup Elle
 Killing King Grahl is our mission
 Snarl is Grahl's wolf
-
 --------------------------------------------------------------------------
 
 ## Monies and Inventory
@@ -159,8 +170,8 @@ Snarl is Grahl's wolf
 **Current Group Monies Totals**:
 
 + Gold: 637 (+150 - 8/31)
-+ Epsilum: 30
-+ Silver: 401 (+33 - 8/31)
++ Epsilum: 190 (+160 - 2/5)
++ Silver: 621 (+220 - 2/5)
 
 **Group Inventory**:
 
@@ -191,5 +202,46 @@ King Grall attacks us, the map is under his bed
 - Surrounded by Goblins (on the southern wall/entrance) and Hobgoblins (east/west wall)
 
 _Inventory_: found stitched leather sack (ask Gray for contents)
+    - 160 Epsilum
+    - 220 Silver
+    - Map
+
 _Inventory_: got the map from his bed
 
+# 11/27
+
+Attacked and killed 12 Goblins and 4 Hobgoblins
+
+# 01/15
+Going through the castle
+Dre'ven takes all the decorations/ornaments that were on top of a altar
+Explore the castle
+
+Getting attacked
+    -7
+    -6
+    down to 12 health
+    Disengaged and fled
+
+In the ashes from the stone censer, there were two clunks, something happened
+
+# 02/05
+
+Glass of brandy
+    - 1 glass = 1HP; 20 total
+        - 15 glasses left (me (x2), Elle and Mel (x2))
+    - +1 HP (13)
+    - Sildar's Sword
+    - casks of meat and grain
+    - bloody chainmail
+    - Heavy crossbow
+    - Hue takes 5 spears
+    - Great sword, Long sword, Morning star, Engraved quarter staff
+
+Short rest
+Spent 1 Hit Dice, 1d10 and healed all the way up to 25
+
+## Owl Bear
+Primeval Awareness
+- He's hungry, angry, lonely, and wants to leave
+- We hid, Owl Bear ran through Dre'ven (took 3d6 damage - 6 damage)
