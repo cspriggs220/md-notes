@@ -245,3 +245,55 @@ Spent 1 Hit Dice, 1d10 and healed all the way up to 25
 Primeval Awareness
 - He's hungry, angry, lonely, and wants to leave
 - We hid, Owl Bear ran through Dre'ven (took 3d6 damage - 6 damage)
+
+2/14
+
+Added 1,250 XP
+
+_Inventory_: Owl Bear Room
+90 eps
+120 g
+potion of healing
+scroll of silence
+scroll of revivify
+
+Leveled Up: 4
+HP at 32
+
+--------------------------------------------------------------------------
+
+## Monies and Inventory
+
+**Personal Inventory**
+
++ 2 dice of inspiration (1d6 mod for any check/save)
++ 1 luck roll (any 1 d20; re-roll)
+
+**Current Group Monies Totals**:
+
++ Gold: 757 (+120 - 2/14)
++ Epsilum: 280 (+90 - 2/14)
++ Silver: 621
+
+**Group Inventory**:
+
++ 4 potions of standard healing (+1 - 2/14)
++ Jade statue with golden eyes
++ 3 golden teeth
++ 2 garnets (worth 1 gold each)
++ 1 pearl (100g)
++ 5 karnillians (10g each)
++ 3 Viles from Glasstaff
+    + Powdered Nightshade (25g)
+    + Mercury (25g)
+    + Dragon Bile (25g)
++ 5 Malkite Gems (15g ea)
++ 1 scroll of augery
++ 1 Talon (Magic Longsword)
++ Eye patch, semi precious stones (50g)
++ iron key or jail cell
++ Scroll of Silence
++ Scroll of Revivify
++ Map of Gundren's Lost Mine
+
+--------------------------------------------------------------------------
